@@ -1,0 +1,14 @@
+body {
+    color: rgb(252, 249, 249);
+    width: 500px;
+    border: 1px solid black;
+    background-color: black
+}
+
+p{
+    font-size: 70px;
+    left: 15%;
+    top: 35%;
+    position: absolute;
+    text-align: center;
+}
