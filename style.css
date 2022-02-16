@@ -1,11 +1,51 @@
-body {
-    color: rgb(252, 249, 249);
-    border: 1px solid black;
-    background-color: black
+body{
+    
+    background-image: url("img/code1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    width: 100%;
 }
 
-p{
-    font-size: 70px;
-    margin-top: 20%;
-    text-align: center;
+.col-auto{
+    margin: 30px;
 }
+
+.inline-list {
+    
+    display:inline;
+}
+
+h1 {
+    color: rgb(224, 219, 219);
+    border-bottom: 2px solid rgb(224, 219, 219);
+    display: inline-block;
+    
+}
+
+p {
+    margin: 50px;
+    font-size: 18px;
+    color: rgb(224, 219, 219);
+    
+}
+    
+.img-circle {
+    border-radius: 150%;
+}
+
+img {
+    margin: 10px;
+    vertical-align: middle;
+    border: 10;
+}
+
+.inline-list li {
+    text-align: center;
+    margin: 30;
+    display: inline-block; 
+    padding-left: 0 50px;
+}
+  
+
